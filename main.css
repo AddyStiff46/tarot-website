@@ -1,0 +1,13 @@
+#nav-section{
+    background-color: green;
+    
+}
+nav li a{
+    text-decoration: none;
+    color: beige;
+    align-items: center;
+}
+
+nav li a:hover{
+    color: azure;
+}
