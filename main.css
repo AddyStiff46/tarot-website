@@ -1,5 +1,22 @@
+* {
+    font: higuen elegant serif;
+}
+
+header {
+    margin: 1vw 0;
+    padding-inline-start: 10%;
+}
+
+#amp-div {
+    padding-inline-start: 30%;
+}
+sub{
+    padding-inline-start: 50%;
+}
+
 #nav-section{
     background-color: green;
+
     
 }
 nav li a{
@@ -11,3 +28,4 @@ nav li a{
 nav li a:hover{
     color: azure;
 }
+
